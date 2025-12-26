@@ -1,16 +1,21 @@
-# plant_app
+# PlantApp UI
 
-A new Flutter project.
+**PlantApp** is a modern and visually appealing frontend UI for an online plant store. Users can browse, explore, and buy plants through an intuitive interface. This project focuses solely on the frontend design and interactions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Browse a variety of plants with images and descriptions  
+- Plant details page with price and care instructions  
+- Add to cart / wishlist UI
+- Responsive layout for mobile, tablet, and desktop
+- Clean, modern, and nature-inspired design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- **Frontend:** Flutter / React.js / HTML, CSS, JS  
+- **State Management:** (if any, e.g., Provider, Context API, GetX, Bloc)  
+- **Design:** Figma / Adobe XD
